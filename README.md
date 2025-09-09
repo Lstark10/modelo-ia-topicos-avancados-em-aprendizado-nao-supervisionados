@@ -72,9 +72,10 @@ projeto-deteccao-anomalias/
 ```
 
 ## Instalação e Configuração
+OBS: Caso queira optar por executar em ambientes como Google collab ou Anaconda jupyter, basta descomentar a primeira célula do arquivo ipynb e executar o arquivo caso esteja faltando alguma dependencia. É uma alternativa ao arquivo requirements.txt.
 
 ### Pré-requisitos
-- Python 3.7 ou superior
+- Python 3.12 ou superior
 - Jupyter Notebook ou JupyterLab
 
 ### Instalação das Dependências
